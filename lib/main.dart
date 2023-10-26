@@ -1,6 +1,9 @@
 //para criação de splash screen native, seguir  tutorial de Academia do flutter > PACKAGES> Flutter native splash
 //Atenção a versão do android (se for 12) e ios, pois á uma configuração diferente
 
+// dart run flutter_native_splash:create
+// dart run flutter_native_splash:remove
+
 
 import 'package:flutter/material.dart';
 
